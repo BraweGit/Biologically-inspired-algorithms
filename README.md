@@ -1,2 +1,2 @@
 # Biologically-inspired-algorithms
-Some biologically inspired algorithms like SOMA, differential evolution, etc.
+Some biologically inspired algorithms like SOMA, differential evolution, hill climbing, etc.
